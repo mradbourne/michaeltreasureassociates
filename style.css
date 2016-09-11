@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+svg {
+	width:100%;
+}
+a {
+	color: #231f20;
+	text-decoration: none;
+	letter-spacing: 0.5px
+}
+a:hover{
+	text-decoration: underline;
+}
